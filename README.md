@@ -1,18 +1,19 @@
 # Admission Form for Yoga Classes
 
-An Admission form for the yoga classes using the ReactJS as a front-end and firebase as a backend for storing all the data and payment information.
+In this project I have created a Admission form for the yoga classes using the ReactJS as a front-end and firebase as a backend for storing all the data and payment information.
+This yoga class application is a dynamic website which reacts at realtime as well as it is highly scalable application.
 I have used the firebase realtime database's REST API for managing all the backend. This application form accepts the user data, does some validations and store the form data in the database and redirect it to the payment gateway.
 Once the payment is successful your regestration is completed.
 After completing this project I have deployed it on Netlify which is a remote-first cloud computing company that offers a development platform that includes build, deploy, and serverless backend services for web applications and dynamic websites.
 
 ## Source Code
-GitHub : (https://github.com/Siri-910/Flexmoney-Task/tree/main)
+GitHub : https://github.com/susverma/AdmissionForm
 
 ## Database
 Firebase Realtime Database
 
 ## Deployment
-Netlify : (https://flexmoney-yogaclass9.netlify.app/)
+Netlify : https://admissionform-yoga-classes.netlify.app/
 
 ## FlowChart
 ```mermaid
