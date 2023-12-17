@@ -7,13 +7,13 @@ Once the payment is successful your regestration is completed.
 After completing this project I have deployed it on Netlify which is a remote-first cloud computing company that offers a development platform that includes build, deploy, and serverless backend services for web applications and dynamic websites.
 
 ## Source Code
-GitHub : https://github.com/susverma/AdmissionForm
+GitHub : https://github.com/Siri-910/Flexmoney-Task
 
 ## Database
 Firebase Realtime Database
 
 ## Deployment
-Netlify : https://admissionform-yoga-classes.netlify.app/
+Netlify :https://flexmoney-yogaclass9.netlify.app/
 
 ## FlowChart
 ```mermaid
