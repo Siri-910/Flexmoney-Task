@@ -13,7 +13,7 @@ GitHub : https://github.com/susverma/AdmissionForm
 Firebase Realtime Database
 
 ## Deployment
-Netlify : https://admissionform-yoga-classes.netlify.app/
+Netlify : [https://admissionform-yoga-classes.netlify.app/](https://flexmoney-yogaclass9.netlify.app/)
 
 ## FlowChart
 ```mermaid
